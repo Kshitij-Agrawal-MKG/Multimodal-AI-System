@@ -7,7 +7,7 @@ def generate_image_description(image_path, user_request):
     ocr = extract_text(image_path)
     result = f"{prompt}{image}Optical Character Recognition: {ocr} User-Request: {user_request}"
 
-    api = "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"
+    api = "ENTER YOUR API KEY"
     client = Groq(api_key=api)
     completion = client.chat.completions.create(
         model="llama-3.3-70b-specdec",
