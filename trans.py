@@ -3,7 +3,7 @@ import uuid
 import json
 
 # Replace with your actual API key and region
-key = "4XDf6c8CVYvKLj9XqzMFMknPrHYKiVFprMz80QQwA3i9rj0NgeFlJQQJ99BBACGhslBXJ3w3AAAbACOGKxip"
+key = "ENTER YOUR API KEY"
 location = "centralindia"
 endpoint = "https://api.cognitive.microsofttranslator.com"
 def translate_text(text, target_language):
