@@ -125,6 +125,9 @@ To use **Microsoft Translator API** and **Groq API**, replace placeholders with 
 
 ---
 
+## 🚀 Live Demo  
+[Click here to access the project](https://multiamodal-ai-system.streamlit.app/)
+
 ## 🎥 **Demo Video**
 
 👉 **[Click here to watch the demo video](https://youtu.be/JduGvL-vdhM)** 
